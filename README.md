@@ -6,7 +6,7 @@ konst is a command-line tool for polyglot developers to define constants and sni
 
 The idea for this tool is from a conversation I had with a friend who is also a software developer:
 
-Jeff:
+**Jeff:**
 
 	here's an ambitious project
 
@@ -18,7 +18,7 @@ Jeff:
 
 	so you can truly have just one place where that constant lives
 
-Sean:
+**Sean:**
 
 	could be a good command line tool
 
